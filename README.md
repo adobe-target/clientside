@@ -1,1 +1,2 @@
-# Please click on the "Wiki" tab in the navigation bar to begin.
+By the time you finish reading this sentence, your web architecture could be out of date. The web is moving at a breakneck pace, and technologies are changing constantly and rapidly. Adobe has built a new implementation library from the ground up to support the modern web and help you adapt to the changing times. AT.JS is a JavaScript library built for single-page applications but works with any platform and framework. Learn how to take advantage of the extension libraries of AT.JS to streamline your deployment of React.js applications.
+# [Start the Client Side Lab](https://github.com/adobe-target/clientside/wiki/A1.-Introduction-to-Client-Side-Personalization)
