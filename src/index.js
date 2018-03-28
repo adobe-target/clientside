@@ -28,7 +28,7 @@ let store = createStore(
 );
 const history = syncHistoryWithStore(hashHistory, store);
 
-/* REMOVE THE COMMENT BELOW
+/* UNCOMMENT THE CODE BELOW
 
 /**
 history.listen(location => {
