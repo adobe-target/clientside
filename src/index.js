@@ -28,6 +28,9 @@ let store = createStore(
 );
 const history = syncHistoryWithStore(hashHistory, store);
 
+/* REMOVE THE COMMENT BELOW
+
+/**
 history.listen(location => {
 
     var event = new CustomEvent('at-view-start', { detail: location.pathname });
@@ -35,6 +38,7 @@ history.listen(location => {
     document.dispatchEvent(event);
     console.log("changed location event was dispatched", event)
 });
+**/
 
 window.React = React
 
